@@ -23,7 +23,7 @@ Atividade onde devemos replicar uma página web para um cinema usando HTML e CSS
 
     Interestelar - 20:00 - Hoje
 
-    Chucky - 21:00 - Amanhã
+    Chucky - 21:00 - Hoje
 
     Alien vs. Predator - 15:00 - Amanhã
 
