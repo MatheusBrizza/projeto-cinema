@@ -5,13 +5,13 @@ Atividade onde devemos replicar uma página web para um cinema usando HTML e CSS
 ## Atividade
 1 - Crie um projeto chamado cinema.
 
-2 - Crie um arquivo index.html;
+2 - Crie um arquivo `index.html`;
 
-2.1 - O título do arqiovp e p título de nível 1 devem conter o nome do projeto.
+2.1 - O título do arquivo e o título de nível 1 devem conter o nome do projeto.
 
 3 - Crie um diretório dentro do projeto com o nome de: estados
 
-4 - Em estados crie dois arquivos: porto-alegre.html e canoas.html
+4 - Em estados crie dois arquivos: `porto-alegre.html` e `canoas.html`.
 
 4.1 - Adicionar link levando para o início do site;
 
